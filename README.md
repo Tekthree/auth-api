@@ -4,8 +4,8 @@ Authentication Server Phase 3: Role Based Access Control
 ## Author - Tek Jones
 ---
 
-## Deployment - https://tekjones-bearer-auth.herokuapp.com/
----
+## Deployment - https://tek-jones-auth-api.herokuapp.com/
+--- 
 
 ## test
 - npm run test
